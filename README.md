@@ -11,7 +11,7 @@ One of my proudest achievements is leading a project to bridge the knowledge gap
 - **Outcome:** A pipeline that updates the top 15 recommended AI papers using models like XGBoost and h-index evaluations.  
 [Explore the full project here!](https://github.com/yucheng1015/Practicum_406/blob/main/README.md)
 
-![Research Snapshot](placeholder.png)
+![Research Snapshot](research.png)
 
 ---
 
