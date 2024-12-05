@@ -7,7 +7,7 @@ I’m currently pursuing my M.A. in **Quantitative Methods for Social Sciences**
 ### 🧠 My Research
 One of my proudest achievements is leading a project to bridge the knowledge gap between **AI advancements** and **non-technical audiences**. This initiative filters and summarizes overwhelming amounts of research publications to make them accessible and actionable.  
 - **Features:** Relevance ranking, importance evaluation, and NLP-driven insights.  
-- **Data Sources:** [Papers with Code](https://paperswithcode.com/), [ArXiv](https://arxiv.org/), Google Scholar, AI Journals.  
+- **Data Sources:** [ArXiv](https://arxiv.org/), Google Scholar, AI Journals.  
 - **Outcome:** A pipeline that updates the top 15 recommended AI papers using models like XGBoost and h-index evaluations.  
 [Explore the full project here!](https://github.com/yucheng1015/Practicum_406/blob/main/README.md)
 
